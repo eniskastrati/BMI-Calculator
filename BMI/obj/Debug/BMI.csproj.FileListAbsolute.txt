@@ -1,0 +1,8 @@
+C:\Users\enis\source\repos\bmi-calculator\BMI\bin\Debug\BMI.exe.config
+C:\Users\enis\source\repos\bmi-calculator\BMI\bin\Debug\BMI.exe
+C:\Users\enis\source\repos\bmi-calculator\BMI\bin\Debug\BMI.pdb
+C:\Users\enis\source\repos\bmi-calculator\BMI\obj\Debug\BMI.csproj.AssemblyReference.cache
+C:\Users\enis\source\repos\bmi-calculator\BMI\obj\Debug\BMI.csproj.SuggestedBindingRedirects.cache
+C:\Users\enis\source\repos\bmi-calculator\BMI\obj\Debug\BMI.csproj.CoreCompileInputs.cache
+C:\Users\enis\source\repos\bmi-calculator\BMI\obj\Debug\BMI.exe
+C:\Users\enis\source\repos\bmi-calculator\BMI\obj\Debug\BMI.pdb
